@@ -142,7 +142,7 @@
             testObj = new IntegerDate(input);
 
             //Assert
-            Assert.AreEqual(expected, testObj.ToInt32);
+            Assert.AreEqual(expected, testObj.ToInt);
         }
 
         [TestMethod]

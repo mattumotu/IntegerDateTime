@@ -1,14 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDateTime", ".\IntegerDateTime\IntegerDateTime.csproj", "{76E1BC6A-304E-435D-9347-746FF7DA6D43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDateTime", "IntegerDateTime\IntegerDateTime.csproj", "{76E1BC6A-304E-435D-9347-746FF7DA6D43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDateTime.Tests", ".\IntegerDateTime.Tests\IntegerDateTime.Tests.csproj", "{0A2AB74B-1A9A-4D97-BC33-6BF0389668DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDateTime.Tests", "IntegerDateTime.Tests\IntegerDateTime.Tests.csproj", "{0A2AB74B-1A9A-4D97-BC33-6BF0389668DD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8462B8F1-CA9F-4720-87B3-EE1582FC73C6}"
 	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\integerdatetime.png = ..\integerdatetime.png
 		IntegerDateTime.vsmdi = IntegerDateTime.vsmdi
+		..\LICENSE = ..\LICENSE
 		Local.testsettings = Local.testsettings
+		..\README.md = ..\README.md
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject

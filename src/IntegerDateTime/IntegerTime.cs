@@ -92,7 +92,7 @@
         /// <summary>
         /// Gets an integer representing this time
         /// </summary>
-        public int ToInt32
+        public int ToInt
         {
             get
             {

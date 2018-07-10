@@ -97,7 +97,7 @@
         /// <summary>
         /// Gets an integer representing this date
         /// </summary>
-        public int ToInt32
+        public int ToInt
         {
             get
             {
