@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8462B8F1-CA9F-4720-87B3-EE1582FC73C6}"
 	ProjectSection(SolutionItems) = preProject
 		..\.gitignore = ..\.gitignore
+		IntegerDateTime\IntegerDateTime.nuspec = IntegerDateTime\IntegerDateTime.nuspec
 		..\integerdatetime.png = ..\integerdatetime.png
 		IntegerDateTime.vsmdi = IntegerDateTime.vsmdi
 		..\LICENSE = ..\LICENSE
