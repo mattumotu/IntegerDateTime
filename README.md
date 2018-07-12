@@ -6,6 +6,12 @@
 [![Coverage Status](https://coveralls.io/repos/github/mattumotu/IntegerDateTime/badge.svg?branch=master)](https://coveralls.io/github/mattumotu/IntegerDateTime?branch=master)
 [![NuGet](https://img.shields.io/nuget/v/integerdatetime.svg)](https://www.nuget.org/packages/IntegerDateTime/)
 
+Installation
+---
+Via NuGet
+
+    PM> Install-Package IntegerDateTime 
+    
 ## Usage
 
 SQL Server sometimes like storing date and times as integers, nothing else does. This fixes that.
