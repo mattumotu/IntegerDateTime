@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("IntegerDateTime")]
-[assembly: AssemblyDescription("SQL Server sometimes like storing date and times as integers, nothing else does. This fixes that.")]
+[assembly: AssemblyDescription("SQL Server sometimes likes storing date and times as integers, nothing else does. This fixes that.")]
 [assembly: AssemblyConfiguration("Release")]
 [assembly: AssemblyCompany("Matt Phillips")]
 [assembly: AssemblyProduct("IntegerDateTime")]
