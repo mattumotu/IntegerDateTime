@@ -14,7 +14,7 @@ Via NuGet
     
 ## Usage
 
-SQL Server sometimes like storing date and times as integers, nothing else does. This fixes that.
+SQL Server sometimes likes storing date and times as integers, nothing else does. This fixes that.
 
 Sure finding the day, month or year from a `yyyyMMdd` string (or int) isn't hard, but do you really want a bunch of `SubString` calls or odd looking maths cluttering your code, begging to hide bugs?
 
